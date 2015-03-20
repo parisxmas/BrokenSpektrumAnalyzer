@@ -1,7 +1,7 @@
 // OpenGL Winamp Visulization Plug-in
 
-// Baris AKIN       : Win32 API and VIS API integration to OpenGL (4/9/2001)
-// Jan HORN (RIP)   : 3D visual var design (2001)
+// Baris AKIN       : Win32 API and VIS API integration to OpenGL barisakin@gmail.com (4/9/2001)
+// Jan HORN (RIP)   : 3D visual bar design (2001)
 // BASE CODE
 // J.Frankel        : Vis Plug-in in C++  (1997)
 // N.M. Ismail      : Converted from original plug-in VC++ source to Delphi2/3. (1997)
